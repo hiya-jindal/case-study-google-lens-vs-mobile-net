@@ -1,0 +1,16 @@
+img {
+    width : 70%;
+    height: 70%;
+  }
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: seashell;
+    line-height: 2;
+    text-align: center;
+
+}
